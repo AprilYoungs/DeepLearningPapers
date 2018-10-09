@@ -42,14 +42,14 @@ Applicatio
 ## 3. Attention
 
 
-# 4. object detection
+# 3. object detection
 ## 1. 2D detection
 1. An Analysis of Scale Invariance in Object Detection – SNIP(2017)
 ## 2. 3D detection
 
 
 
-# 5. segmentation
+# 4. segmentation
 ## 1. semantic segmentation
 ### 1. sence segmentation
 
@@ -61,7 +61,7 @@ Applicatio
 3. 
 
 
-# 6. Object Tracking
+# 5. Object Tracking
 
 ## 1.  Survey
 1. [Object Tracking: A Survey(2006)](http://vision.eecs.ucf.edu/projects/trackingsurvey/)
@@ -80,7 +80,7 @@ Tracking Approaches](https://arxiv.org/pdf/1802.03098.pdf)
 ## 3. MOT
 
  
-# Face 
+# Face Recognition
 1. multi-task learning for face identification and attribute estimation(ICASSP 2017)
   
 
