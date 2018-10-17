@@ -118,6 +118,7 @@ Applicatio
 ### 2. Semantic segmentation
 1. ICNet for Real-Time Semantic Segmentation on High-Resolution Images(ECCV2018)
 2. **DANet**: Dual Attention Network for Scene Segmentation(2018.09)
+3. **EncNet**:Context Encoding for Semantic Segmentation(2018.03)
 3. Loss Max-Pooling for Semantic Image Segmentation(2017.04)
 4. Understanding Convolution for Semantic Segmentation(2017.02)
 5. Multi-Scale Context Aggregation by Dilated Convolutions(2015.11)
@@ -178,6 +179,7 @@ Tracking Approaches](https://arxiv.org/pdf/1802.03098.pdf)
 ---
 1. Tracking Emerges by Colorizing Videos(2018.06)
 2. A Twofold Siamese Network for Real-Time Object Tracking(2018.02)
+3. Triplet Loss in Siamese Network for Object Tracking(ECCV2018)
 3. End-to-end representation learning for Correlation Filter based tracking(2017)
 4. Siamese Learning Visual Tracking: A Survey(2017.07)
 4. Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects(2017.05)
@@ -204,7 +206,9 @@ Tracking Approaches](https://arxiv.org/pdf/1802.03098.pdf)
 ## 3.Recognition
 1. Deep Face Recognition: A Survey(2018.04)
 1. multi-task learning for face identification and attribute estimation(ICASSP 2017)
- 
+
+3. Facenet: A unified embedding for face recognition and clustering(2015.03) 
+
 ## 4.Retrieval
 1. Face Video Retrieval via Deep Learning of Binary Hash Representations(2016) 
 
